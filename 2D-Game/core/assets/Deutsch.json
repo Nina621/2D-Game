@@ -1,0 +1,11 @@
+{
+  "class": "com.unknown.Dictionary",
+  "map": {
+    "KeyHello": "Hallo!",
+    "KeyPlay": "Andrej-Spiel:",
+    "KeyScore": "Ergebnis: %d ",
+    "KeyInterrupt" : "Das spiel ist vorbei !"
+
+  }
+
+}

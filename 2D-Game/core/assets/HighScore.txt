@@ -1,0 +1,21 @@
+
+Robert: 40
+Robert: 100
+sraar: 170
+sraar: 30
+UnknownPlayer: 220
+UnknownPlayer: 160
+UnknownPlayer: 0
+UnknownPlayer: 370
+UnknownPlayer: 780
+UnknownPlayer: 10
+Nikolina: 0
+Nikolina: 40
+Nikolina: 10
+Nikolina: 0
+Nikolina: 570
+Nikolina: 100
+Nikolina: 140
+Nikolina: 80
+Nikolina: 520
+Nikolina: 170
